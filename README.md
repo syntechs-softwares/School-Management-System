@@ -80,22 +80,6 @@ The system should now run successfully.
 
 *(Add or update features specific to your system here)*
 
-## Folder Structure
-
-```
-your-project-folder/
-├── assets/
-├── css/
-├── js/
-├── includes/
-├── database/
-│   └── database.sql
-├── index.php
-└── README.md
-```
-
-*(Structure may vary depending on implementation)*
-
 ## Troubleshooting
 
 * Ensure Apache and MySQL are running in XAMPP Control Panel
@@ -115,7 +99,7 @@ This project is provided for educational and development purposes. You may modif
 
 ## Author
 
-**SYNTECHS**
+**SYNTECHS SOFTWARE SOLUTIONS**
 
 ---
 
