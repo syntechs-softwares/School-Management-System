@@ -101,7 +101,3 @@ This project is provided for educational and development purposes. You may modif
 
 **SYNTECHS SOFTWARE SOLUTIONS**
 
----
-
-If you need help customizing this README for your exact system features, you can update the sections or request further refinement.
-
